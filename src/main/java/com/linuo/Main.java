@@ -7,5 +7,7 @@ public class Main {
         System.out.println("my name is 2");
         System.out.println("my name is 3");
         System.out.println("my name is 4");
+
+        float i= (float) 1.2;
     }
 }
